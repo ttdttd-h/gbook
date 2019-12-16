@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "微软雅黑"；
+}
+.wrap{
+	background: #265167;
+	width: 600px;
+	margin: 0 auto;
+}
+.wrap .rdd .content{
+	width: 598px;
+	padding: 0;
+}
+.wrap .rdd .user{
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 400px;
+}
+.wrap .rdd .btn{
+	margin-right: 10px;
+	margin-top: 10px;
+	float: right;
+}
+.wrap .show{
+	margin-top: 20px;
+	background: #709bca;
+	padding: 20px;
+}
+.wrap .show .user{
+	display: inline-block;
+	color: blue;
+
+}
+.wrap .show .time{
+	float: right;
+	color: #985555bf;
+	display: inline-block;
+}
+.wrap .show .content{
+	margin-top: 10px;
+	
+}
